@@ -71,7 +71,7 @@ To get started with this project, clone the repository and follow the setup inst
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/somerepo.git
+   git clone https://github.com/FiziQaiser/Genetic-Algorithm-Timetable-Scheduling-.git
    ```
 2. Navigate to the project directory:
    ```sh
